@@ -18,14 +18,13 @@ the code for the rider side.
 ## Screenshots
 
 ![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r0.jpg) $~~~~~~~~$
-
 ![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r01.jpg) $~~~~~~~~$
 
 
-![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r1.jpg) $~~~~~~~~$
+![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r1.jpg)
 
 
-![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r2.jpg) $~~~~~~~~$
+![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r2.jpg) 
 
 
 ![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r3.jpg)
