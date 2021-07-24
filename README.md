@@ -14,3 +14,38 @@ the code for the rider side.
 ### 8-> Configuring Riders Trip Experience.
 ### 9-> Setting Up Driver Earnings  History Pages.
 ### 10-> Creating a Ride Request on Firebase and Many more 🔥.
+
+## Screenshots
+
+![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r0.jpg)
+
+
+![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r0.jpg)
+
+
+![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r01.jpg)
+
+
+![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r1.jpg)
+
+
+![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r2.jpg)
+
+
+![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r3.jpg)
+
+
+![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r4.jpg)
+
+
+![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r5.jpg)
+
+
+![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r6.jpg)
+
+
+![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r7.jpg)
+
+![App Screenshot](https://github.com/guptashubham95a/uber-rider-app/blob/main/flutter-cab-rider/r8.jpg)
+
+  
